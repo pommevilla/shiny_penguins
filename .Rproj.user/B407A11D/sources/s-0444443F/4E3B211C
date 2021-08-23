@@ -1,0 +1,27 @@
+{
+    "id": "4E3B211C",
+    "path": "C:/Users/pvill/repos/shiny4/R/app.R",
+    "project_path": "R/app.R",
+    "type": "r_source",
+    "hash": "1865250278",
+    "contents": "",
+    "dirty": false,
+    "created": 1629509426343.0,
+    "source_on_save": false,
+    "relative_order": 1,
+    "properties": {
+        "source_window_id": "",
+        "Source": "Source",
+        "cursorPosition": "4,15",
+        "scrollLine": "0",
+        "marks": "<:16,16\n>:16,16"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1629709588,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1629709588974,
+    "read_only": false,
+    "read_only_alternatives": []
+}

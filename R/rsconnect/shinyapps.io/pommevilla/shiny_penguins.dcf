@@ -1,0 +1,13 @@
+name: shiny_penguins
+title: shiny_penguins
+username:
+account: pommevilla
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 4523371
+bundleId: 4952870
+url: https://pommevilla.shinyapps.io/shiny_penguins/
+when: 1629709610.90958
+lastSyncTime: 1629709610.90958
+asMultiple: FALSE
+asStatic: FALSE
